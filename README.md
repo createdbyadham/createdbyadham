@@ -2,8 +2,15 @@ AI Engineer specialized in building agentic LLM systems, fine-tuning AI models, 
 AI/ML pipelines. Experienced in end-to-end deployment using FastAPI, React, LangChain, and HuggingFace
 to deliver reliable, production-grade AI solutions.
 
+<div align="center">
+
 ## Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/adhamehab6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adhamehab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:createdbyadham@gmail.com) 
+  
+[![Behance](https://iili.io/KPjT0og.png)](https://behance.net/adhamehab6)
+[![LinkedIn](https://iili.io/KPj713b.png)](https://linkedin.com/in/adhamehab)
+[![email](https://iili.io/KPjcV9f.png)](mailto:createdbyadham@gmail.com)
+
+</div>
 
 <div align="center">
   <h1>GitHub Stats:</h1>
