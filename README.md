@@ -16,10 +16,3 @@ to deliver reliable, production-grade AI solutions.
   <h1>GitHub Stats:</h1>
   <img src="https://nirzak-streak-stats.vercel.app/?user=createdbyadham&theme=blue_navy&hide_border=true" alt="GitHub Streak Stats" width="48%">
 </div>
-
-<div align="center">
-  <h2>You can help me by Donating</h2>
-  <a href="https://buymeacoffee.com/createdbyadham">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
-</div>
